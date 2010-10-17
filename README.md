@@ -4,7 +4,7 @@ Hamltastic provides Haml generators for Rails 3. It also enables Haml as the tem
 
 To use it, add this line to your Gemfile:
 
-    gem "haml-rails"
+    gem "railstastic"
 
 Pretty fancy, eh?
 
