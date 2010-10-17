@@ -1,4 +1,4 @@
 source :gemcutter
 
-# Specify your gem's dependencies in haml-rails.gemspec
+# Specify your gem's dependencies in hamltastic.gemspec
 gemspec
