@@ -8,6 +8,8 @@ To use it, add this line to your Gemfile:
 
 Pretty fancy, eh?
 
+(Actually, this doesn't seem to be working yet for some reason. Will Update once I figure out.)
+
 Once you've done that, any time you generate a controller or scaffold, you'll get Haml instead of ERB templates. On top of that, when your Rails application loads, Haml will be loaded and initialized completely automatically!
 
 ### Contributors
